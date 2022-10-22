@@ -41,5 +41,15 @@ This example will demonstrate by using Huawei p30lite android phone.
 
 **Step-7**: Scroll down to the debugging section and turn on the toggle
 <div class="center-align-text">
-<img src="../assets/img/2022-10-22-Web-app-debugging-part-1/6.png" width="35%">
+<img src="../assets/img/2022-10-22-Web-app-debugging-part-1/7.png" width="35%">
+</div>
+
+**Step-8**: Tap `ok`
+<div class="center-align-text">
+<img src="../assets/img/2022-10-22-Web-app-debugging-part-1/8.png" width="35%">
+</div>
+
+**Step-9**: USB debugging mode is on and ready to use.
+<div class="center-align-text">
+<img src="../assets/img/2022-10-22-Web-app-debugging-part-1/9.png" width="35%">
 </div>
