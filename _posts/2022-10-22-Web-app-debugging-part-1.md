@@ -1,7 +1,9 @@
 ---
-title: Web app debugging part-1: Android device prerequisite
+title: Web app debugging part-1
 permalink: /blogs/web-app-debugging-part-1
 ---
+
+## Web app debugging part-1: Android device prerequisite
 
 These steps are to enable USB Debugging on your device, which will allow to debugging mobile web applications using the chrome dev tool.
 
