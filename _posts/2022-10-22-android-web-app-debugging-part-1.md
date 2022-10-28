@@ -1,5 +1,5 @@
 ---
-title: Android web app debugging part-1
+title: Android web debugging part-1
 permalink: /blogs/android-web-app-debugging-part-1
 ---
 
